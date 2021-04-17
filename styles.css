@@ -1,0 +1,9 @@
+body
+{
+    /* background-image: url("https://i.pinimg.com/originals/52/b3/ca/52b3caaa9e283398b6d5b80a11938bed.gif") */
+    background-image: url("imgs/spyderweb.png");
+    background-color: black;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
